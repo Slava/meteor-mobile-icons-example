@@ -23,3 +23,4 @@ App.launchScreens({
   'ipad_landscape_2x': 'splash/Default-Landscape@2x~ipad.png'
 });
 
+App.setPreference('StatusBarOverlaysWebView', 'false');
