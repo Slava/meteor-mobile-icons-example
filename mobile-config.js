@@ -8,9 +8,9 @@ App.info({
 
 App.icons({
   'iphone': 'icons/icon-60.png',
-  'iphone-2x': 'icons/icon-60@2x.png',
+  'iphone_2x': 'icons/icon-60@2x.png',
   'ipad': 'icons/icon-72.png',
-  'ipad-2x': 'icons/icon-72@2x.png'
+  'ipad_2x': 'icons/icon-72@2x.png'
 });
 
 App.launchScreens({
